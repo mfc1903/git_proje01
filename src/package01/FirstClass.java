@@ -3,8 +3,13 @@ package package01;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Ýlk commit from local repository");
+		System.out.println("ikinci commit from local repository");
+		
+		System.out.println("Yeni branch oluþturdum ve adi feature");
+		
+		
 	}
 
 }
